@@ -6,7 +6,7 @@
 2. Run "gradlew build -Dquarkus.package.type=uber-jar" to build the app
 3. Run "java -jar build/petstore-runner.jar" to run the app
 
-#Steps To Test App
+#Steps To Run CRUD Operations
 
 1. Add a pet
 	
